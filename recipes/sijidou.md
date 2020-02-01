@@ -1,5 +1,7 @@
 # 干煸四季豆
 
+![image](../images/ganbiansijidou.jpeg)
+
 ## 食材
 
 四季豆，蒜瓣，牛肉酱，猪肉丁，虾米，冬菜，姜，葱，料酒，酱油
